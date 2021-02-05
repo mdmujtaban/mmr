@@ -1,0 +1,102 @@
+body{
+	background-image: url(../cover/bgi.jpg);
+
+}
+
+.link{
+	text-align: right;
+	font-size: 25px;
+	height: 50px;
+	background-color: #34495e;
+	color: yellow;
+	
+}
+.lbl{
+	color: white;
+	font-size: 35px;
+	font-weight: bold;
+	text-align: center;
+	width: 20%;float: left;
+	height: 50px;
+	
+
+}
+.ff{
+	color: white;
+}
+.CV{
+	overflow: hidden;
+	margin-top: 10%;
+
+}
+.pic{
+	width: 33.33%;
+	float: left;
+	text-align: center;
+}
+
+
+	.ref{
+		text-align: center;
+		font-size: 20px;
+	}
+
+	.log{
+		text-align: center;
+		margin-top: 100px;
+	}
+	.login{
+		text-align: center;
+		margin-right: 500px;
+		margin-left: 500px;
+}
+	.reg{
+		text-align: center;
+		margin-top: 100px;
+	}
+	.register{
+		text-align: center;
+		margin-right: 500px;
+		margin-left: 500px;
+	}
+	.mm{
+		font-size: 45px;
+		text-align: center;
+		border: 5px solid#610909;
+		background-color: #610909;
+		color: white;
+	}
+	.parent{
+		overflow: hidden;
+
+	}
+	.son1{
+		width: 50%;
+		float: left;
+		text-align: center;
+
+	}
+	.son2{
+		width: 50%;
+		float: right;
+		text-align: justify;
+		font-size: 25px;
+	}
+.wrapper{
+		overflow: hidden;
+}
+.news{
+	text-align: center;
+	width: 50%;
+	float: left;
+
+}
+	
+.mf{
+	text-align: center;
+	width: 50%;
+	float: right;
+}
+.footer{
+	border: 5px solid lightblue;
+}
